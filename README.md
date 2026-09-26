@@ -2,11 +2,13 @@
 
 Ukrainian full-stack engineer from Kyiv. Founder of [AOA](https://aoa.com.ua/) and Web Development Team Lead at [SMART business](https://www.smart-it.com/). I build web products, iOS apps and developer tools.
 
+> **At AOA, we're on a mission to get people out more.** Getting out makes us happier. We build a culture around support for people, personal responsibility, strong execution and absolute focus on the user.
+
 **Home page:** [uaoa.github.io](https://uaoa.github.io/) · [українською](https://uaoa.github.io/uk/)
 
 ## Projects
 
-- **[AOA](https://aoa.com.ua/)**: Ukrainian platform that connects people in person at coffee shops, bookstores, coworking spaces, bars and events, with ticketing, check-in, guest CRM and table reservations for venues. Founder.
+- **[AOA](https://aoa.com.ua/)**: gives people reasons to leave home and meet in person. Built around the moment two people actually meet, not time spent in the app. Founder.
 - **[whatsmyera.com](https://whatsmyera.com/)**: enter your birth year and see your generation and what happened during your lifetime.
 - **[wherethefuckismy.money](https://wherethefuckismy.money/)**: real purchasing power calculator for incomes in Ukraine, 2010 to 2026.
 - **[Claude Commit](https://marketplace.visualstudio.com/items?itemName=ZakhariiMelnyk.claude-git-commit)**: VS Code extension that writes git commit messages with Claude. 4,000+ installs. [Source](https://github.com/uaoa/claude-commit-vscode)
