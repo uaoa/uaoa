@@ -1,4 +1,4 @@
-# Zakharii Melnyk (Захарій Мельник)
+# Zakharii (Zakhar) Melnyk · Захарій (Захар) Мельник
 
 Ukrainian full-stack engineer from Kyiv. Founder of [AOA](https://aoa.com.ua/) and Web Development Team Lead at [SMART business](https://www.smart-it.com/). I build web products, iOS apps and developer tools.
 
